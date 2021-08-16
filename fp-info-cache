@@ -1,4 +1,4 @@
-19260895645519792
+19273919478410184
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83600,6 +83600,27 @@ varistor SIOV
 0
 2
 2
+cc
+cc
+
+
+0
+0
+0
+cc
+cc_fcu
+
+
+0
+0
+0
+cc
+cc_negative
+
+
+0
+0
+0
 cftkb
 AVR_ICSP_3x2
 Double rangee de contacts 2 x 4 pins
@@ -83783,12 +83804,40 @@ author_footprint
 0
 0
 cftkb
+mkfr_footprint
+
+
+0
+0
+0
+cftkb
 polyfuse_5.1mm
 
 
 0
 2
 2
+cftkb
+putain_big_oval
+
+
+0
+0
+0
+cftkb
+putain_footprint_big
+
+
+0
+0
+0
+cftkb
+putain_svg
+
+
+0
+0
+0
 cftkb
 rev_num
 
@@ -83803,3 +83852,10 @@ ssd1306 128x32 oled
 0
 4
 4
+perso_silks
+golmon_silk_svg
+
+
+0
+0
+0

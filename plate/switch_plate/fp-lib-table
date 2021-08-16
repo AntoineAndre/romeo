@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name cftkb)(type KiCad)(uri G:/Utilisateurs/antoine.andre/Documents/webDev/romeo/cftkb.pretty)(options "")(descr ""))
+  (lib (name cc)(type KiCad)(uri G:/Utilisateurs/antoine.andre/Documents/webDev/romeo/cc.pretty)(options "")(descr ""))
 )

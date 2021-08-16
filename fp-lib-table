@@ -2,4 +2,6 @@
   (lib (name cftkb)(type KiCad)(uri ${KIPRJMOD}/cftkb.pretty)(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid.pretty/MX_Only.pretty)(options "")(descr ""))
+  (lib (name cc)(type KiCad)(uri ${KIPRJMOD}/cc.pretty)(options "")(descr ""))
+  (lib (name perso_silks)(type KiCad)(uri ${KIPRJMOD}/perso_silks)(options "")(descr ""))
 )
