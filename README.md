@@ -15,8 +15,9 @@ Old layout on top and new layout on bottom
 
 **[Optional High Profile Lasercut Acrylic Case](./case)**
 
-![romeo](./doc/images/romeo.jpg)
 ![](./doc/images/romeo-pcb-top.png)
 ![](./doc/images/romeo-pcb-bottom.png)
 ![](./doc/images/romeo-bottom-bottom.png)
 ![](./doc/images/romeo-bottom-top.png)
+
+![romeo](./doc/images/romeo.jpg)
