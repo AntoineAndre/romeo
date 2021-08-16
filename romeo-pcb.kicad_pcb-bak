@@ -259,7 +259,7 @@
   )
 
   (module perso_silks:golmon_silk_svg (layer B.Cu) (tedit 0) (tstamp 611A0763)
-    (at 239.925 102.5 180)
+    (at 50.575 109.25 180)
     (fp_text reference Ref** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify mirror))
     )
@@ -738,7 +738,7 @@
   )
 
   (module perso_silks:golmon_silk_svg (layer F.Cu) (tedit 0) (tstamp 611A0694)
-    (at 242.825 102.45)
+    (at 242.925 104.075)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
@@ -1410,7 +1410,7 @@
   )
 
   (module cftkb:mkfr_footprint (layer B.Cu) (tedit 0) (tstamp 61189903)
-    (at 39.6875 119.85625 180)
+    (at 38.95 123.75 180)
     (fp_text reference Ref** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify mirror))
     )
@@ -1731,7 +1731,7 @@
   )
 
   (module cftkb:mkfr_footprint (layer F.Cu) (tedit 0) (tstamp 611898DA)
-    (at 157.5 124.5)
+    (at 264.45 121.6)
     (fp_text reference Ref** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
