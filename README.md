@@ -11,7 +11,7 @@ Old layout on top and new layout on bottom
 
 **[BOM, Build Guide, and Flashing Information](./doc)**
 
-**Kits available at [cftkb.com](https://www.cftkb.com)**
+~~Kits available at [cftkb.com](https://www.cftkb.com)~~
 
 **[Optional High Profile Lasercut Acrylic Case](./case)**
 
