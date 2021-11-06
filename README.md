@@ -20,4 +20,4 @@ Old layout on top and new layout on bottom
 ![](./doc/images/romeo-bottom-bottom.png)
 ![](./doc/images/romeo-bottom-top.png)
 
-![romeo](./doc/images/romeo.jpg)
+![romeo](https://live.staticflickr.com/65535/51524021905_2a431f6b20_z.jpg)
